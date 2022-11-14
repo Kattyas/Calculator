@@ -13,7 +13,6 @@ public class Main {
         int nrOsuta     = 100;
         int nrOsutaZece = 110;
 
-
         int adunare = Calc.operAdunare(a,b);
         System.out.println(adunare);
         int scadere = Calc.operScadere(a,b);
